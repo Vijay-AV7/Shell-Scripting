@@ -1,6 +1,5 @@
 #!/bin/bash
 
-timedatectl set-timezone  Asia/Kolkata
 TIMESTAMP_START=$(date)
 echo "The script starts executing at - $TIMESTAMP_START"
 
