@@ -8,4 +8,4 @@ echo "Rajini movie - ${MOVIES[3]}"
 echo "Bradd Pitt movie - ${MOVIES[2]}"
 echo "Hritik Roshan movie - ${MOVIES[1]}"
 
-echo -e "This month movie releases - \e[30m $@"
+echo -e "This month movie releases - $@"
