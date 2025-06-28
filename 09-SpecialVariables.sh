@@ -9,4 +9,5 @@ echo -e "File name - $LYTCYAN $0 $WHITE"
 echo -e "Presnet Working Directtory - $LYTCYAN $PWD $WHITE"
 echo -e "User Home Directory - $LYTCYAN $HOME $WHITE"
 echo -e "Present Command Process Id  - $LYTCYAN $$ $WHITE"
+sleep 10
 echo -e "Previous Command Process Id - $LYTCYAN $! $WHITE"
