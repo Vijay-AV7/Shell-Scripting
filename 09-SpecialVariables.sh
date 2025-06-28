@@ -1,7 +1,7 @@
 #!/bin/bash
 
-LYTCYAN=${\e[96m}
-WHITE=${\e[0m}
+LYTCYAN='\e[96m'
+WHITE='\e[0m'
 
 echo -e "Variable passed - $LYTCYAN $@ $WHITE"
 echo -e "Number Of Variables Passed - $LYTCYAN $# $WHITE"
