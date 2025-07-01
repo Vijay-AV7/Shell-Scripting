@@ -12,3 +12,4 @@ echo -e "User Home Directory - $LYTCYAN $HOME $WHITE"
 echo -e "Present Command Process Id  - $LYTCYAN $$ $WHITE"
 sleep 10 &
 echo -e "Previous background Command Process Id - $LYTCYAN $! $WHITE"
+echo -e "Exit status of prev command - $LYTCYAN $? $WHITE"
